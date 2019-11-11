@@ -29,7 +29,7 @@
     "cookies": "~0.7.1",
     "debug": "~3.1.0",
     "delegates": "^1.0.0",
-    "depd": "^1.1.2",
+    "depd": "^2.0.0",
     "destroy": "^1.0.4",
     "error-inject": "^1.0.0",
     "escape-html": "^1.0.3",
